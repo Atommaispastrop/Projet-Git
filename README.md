@@ -28,4 +28,24 @@ git commit -m "texte de validation des changements"
 
 5) Ajouter des branches :
 
+git branch "nom de la branche"
 
+
+6) Changer de branche :
+
+git ckeckout "nom de la branche"
+
+
+7) Fusionner les branches :
+
+git merge "nom de la branche"
+
+
+8) Récupérer dernière modif du repo
+
+git pull origin "nom de la branche"
+
+
+9) Récup vos modifs vers le repo
+
+git push origin "nom de la branche"
